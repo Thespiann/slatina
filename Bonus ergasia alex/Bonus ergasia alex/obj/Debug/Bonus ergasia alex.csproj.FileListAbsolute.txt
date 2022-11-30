@@ -1,0 +1,12 @@
+C:\Users\desp\Documents\Despoina\UniPi\3rd_Semester\Object_Oriented_App_Development\Μπόνους\Bonus ergasia alex\Bonus ergasia alex\bin\Debug\Bonus ergasia alex.exe.config
+C:\Users\desp\Documents\Despoina\UniPi\3rd_Semester\Object_Oriented_App_Development\Μπόνους\Bonus ergasia alex\Bonus ergasia alex\bin\Debug\Bonus ergasia alex.exe
+C:\Users\desp\Documents\Despoina\UniPi\3rd_Semester\Object_Oriented_App_Development\Μπόνους\Bonus ergasia alex\Bonus ergasia alex\bin\Debug\Bonus ergasia alex.pdb
+C:\Users\desp\Documents\Despoina\UniPi\3rd_Semester\Object_Oriented_App_Development\Μπόνους\Bonus ergasia alex\Bonus ergasia alex\obj\Debug\Bonus ergasia alex.csproj.AssemblyReference.cache
+C:\Users\desp\Documents\Despoina\UniPi\3rd_Semester\Object_Oriented_App_Development\Μπόνους\Bonus ergasia alex\Bonus ergasia alex\obj\Debug\Bonus ergasia alex.csproj.SuggestedBindingRedirects.cache
+C:\Users\desp\Documents\Despoina\UniPi\3rd_Semester\Object_Oriented_App_Development\Μπόνους\Bonus ergasia alex\Bonus ergasia alex\obj\Debug\Bonus_ergasia_alex.Form1.resources
+C:\Users\desp\Documents\Despoina\UniPi\3rd_Semester\Object_Oriented_App_Development\Μπόνους\Bonus ergasia alex\Bonus ergasia alex\obj\Debug\Bonus_ergasia_alex.Properties.Resources.resources
+C:\Users\desp\Documents\Despoina\UniPi\3rd_Semester\Object_Oriented_App_Development\Μπόνους\Bonus ergasia alex\Bonus ergasia alex\obj\Debug\Bonus ergasia alex.csproj.GenerateResource.cache
+C:\Users\desp\Documents\Despoina\UniPi\3rd_Semester\Object_Oriented_App_Development\Μπόνους\Bonus ergasia alex\Bonus ergasia alex\obj\Debug\Bonus ergasia alex.csproj.CoreCompileInputs.cache
+C:\Users\desp\Documents\Despoina\UniPi\3rd_Semester\Object_Oriented_App_Development\Μπόνους\Bonus ergasia alex\Bonus ergasia alex\obj\Debug\Bonus ergasia alex.exe
+C:\Users\desp\Documents\Despoina\UniPi\3rd_Semester\Object_Oriented_App_Development\Μπόνους\Bonus ergasia alex\Bonus ergasia alex\obj\Debug\Bonus ergasia alex.pdb
+C:\Users\desp\Documents\Despoina\UniPi\3rd_Semester\Object_Oriented_App_Development\Μπόνους\Bonus ergasia alex\Bonus ergasia alex\obj\Debug\Bonus_ergasia_alex.Form2.resources
